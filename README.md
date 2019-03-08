@@ -15,7 +15,8 @@ Go easy on the issue creations.
 
 ## Screens
 Here are some of the screenshots of how the app looks. These were taken when the app was under developement
-and are subject to change
+and are subject to change.
+
 ![alt text](https://raw.githubusercontent.com/mwakaambrose/moood-mobile/master/screenshots/1.png)
 ![alt text](https://raw.githubusercontent.com/mwakaambrose/moood-mobile/master/screenshots/2.png)
 ![alt text](https://raw.githubusercontent.com/mwakaambrose/moood-mobile/master/screenshots/3.png)
