@@ -1,9 +1,9 @@
 {
   "devToolsPort": 19002,
-  "expoServerPort": 19000,
-  "packagerPort": 19001,
-  "packagerPid": 10620,
-  "expoServerNgrokUrl": "https://yc-vhd.anonymous.moood-mobile.exp.direct",
-  "packagerNgrokUrl": "https://packager.yc-vhd.anonymous.moood-mobile.exp.direct",
-  "ngrokPid": 10742
+  "expoServerPort": null,
+  "packagerPort": null,
+  "packagerPid": null,
+  "expoServerNgrokUrl": null,
+  "packagerNgrokUrl": null,
+  "ngrokPid": null
 }
